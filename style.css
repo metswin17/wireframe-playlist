@@ -69,13 +69,6 @@ main section:nth-of-type(2) {
   gap: 20px;
 }
 
-header {
-  width: 98.5%;
-  position: absolute; /* or 'fixed' if it should stay while scrolling */
-  top: 0;
-  left: 0;           /* This forces it to the far left edge */
-  margin: 0px;         /* Removes any centering margins */
-}
 
 .hero-section {
   padding-top: 80px; /* Replace with the actual height of your header */
